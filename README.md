@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./assets/banner.png"
+       alt="Automation · System Integrations · AI"
+       width="100%">
+</p>
 # Hi, I'm Chris 👋
 
 🧑‍💻​ Automation developer focused on workflow automation, system integrations, and AI-powered solutions. I use n8n, APIs, JavaScript, Python, and SQL to connect services, process data, and eliminate repetitive tasks. With a programming background in Java, Spring Boot, and PostgreSQL since 2021, I combine software development fundamentals with practical automation to build reliable, maintainable workflows.
