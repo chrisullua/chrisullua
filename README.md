@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".bannergh.png"
+  <img src="./bannergh.jpg"
        alt="Automation · System Integrations · AI"
        width="100%">
 </p>
